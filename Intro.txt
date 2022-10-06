@@ -1,0 +1,35 @@
+Que es GIT?____________
+
+> Es un software de control de versiones que registra los cambios realizados 
+sobre un archivo o conjunto de archivos a lo largo del tiempo
+
+> Git nos permite gestionar distintas versiones de un mismo archivo. pudiendo volver a una 
+version anterior o una más reciente cuando sea necesario.
+
+Que es un Repositorio?_____________
+
+> cuando trabajamos con GIT lo que creamos es un Repositorio, es decir, un lugar
+donde guardamos y administramos nuestros archivos.
+
+> Existen dos tipos de repositorios
+
+    > Locales: son aquellos que se crean de forma "local" en nuestre PC, y que no necesariamente son 
+    compartidos.
+    
+    > Remotos: Son aquellos que se encuentran alojados en algun servidos externo y que pueden ser accedido
+    desde cualquier lugar. Un ejemplo de reposotorio remoto puede ser Git-Hub.
+
+------------------------------------ Git
+
+git init = Para inicializar git.
+
+git config user.name "MarioPelaez96"
+
+git  config user.email "myesidpelaez@uniguajira.edu.co
+
+git remote add origin "https://github.com/MarioPelaez96/Prueba1.git"
+
+git status = para ver el estado de nuestro archivo
+
+
+
